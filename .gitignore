@@ -18,6 +18,7 @@ local.properties
 
 # Signing files
 .signing/
+app/wizk.keystore
 
 # User-specific configurations
 .idea/
